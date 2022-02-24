@@ -18,7 +18,7 @@ Repository Link: https://github.com/Abishek-Suresh/Debt-to-GDP-ratio-by-country-
     
 ## To generate spider
     
-    scrapy gen spider gdp_debt https://worldpopulationreview.com/countries/countries-by-national-debt
+    scrapy gen spider gdp_debt www.worldpopulationreview.com/countries/countries-by-national-debt
 
 ## To Run the Spider
 
